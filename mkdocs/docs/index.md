@@ -1,10 +1,3 @@
----
-title: Home
-layout: default
----
-
-Now with fancy markdown include!
-
 # Section 1
 
 # Section 2

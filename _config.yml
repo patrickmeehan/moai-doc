@@ -2,6 +2,7 @@ name: Jekyll Tutorial
 description: This is the description
 
 url: "http://localhost:4000"
+baseurl: "/moai-doc/"
 
 markdown: kramdown
 permalink: pretty

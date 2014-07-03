@@ -3,11 +3,11 @@ title: Home
 layout: default
 ---
 
-# Topic 1
+# Section 1
 
-# Topic 2
+# Section 2
 
-# Topic 3
+# Section 3
 
 Proin eleifend libero accumsan felis luctus nec consectetur purus commodo. Phasellus sodales est nec massa imperdiet commodo. Maecenas risus nulla, placerat vel vestibulum vel, dapibus quis libero.
 

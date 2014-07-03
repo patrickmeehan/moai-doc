@@ -3,6 +3,8 @@ title: Home
 layout: default
 ---
 
+Now with plugins!
+
 # Section 1
 
 # Section 2

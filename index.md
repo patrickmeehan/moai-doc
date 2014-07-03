@@ -3,7 +3,7 @@ title: Home
 layout: default
 ---
 
-Now with plugins!
+Now with fancy markdown include!
 
 # Section 1
 
